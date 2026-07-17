@@ -1,0 +1,24 @@
+2026-07-17 01:11:35,202 | INFO | Application Started
+2026-07-17 01:11:35,214 | ERROR | Error while loading dataset: No columns to parse from file
+2026-07-17 01:13:37,459 | INFO | Application Started
+2026-07-17 01:13:37,468 | INFO | Dataset Loaded Successfully
+2026-07-17 01:13:37,478 | INFO | Dataset Validation Completed
+2026-07-17 01:13:37,482 | INFO | Analytics Completed
+2026-07-17 01:13:37,510 | INFO | Summary Saved into Database
+2026-07-17 01:26:59,415 | INFO | Application Started
+2026-07-17 01:26:59,420 | INFO | Dataset Loaded Successfully
+2026-07-17 01:26:59,425 | INFO | Dataset Validation Completed
+2026-07-17 01:26:59,426 | INFO | Analytics Completed
+2026-07-17 01:26:59,434 | INFO | Summary Saved into Database
+2026-07-17 01:27:06,926 | INFO | Visualization Generated Successfully
+2026-07-17 01:33:57,516 | INFO | Application Started
+2026-07-17 01:33:57,523 | INFO | Dataset Loaded Successfully
+2026-07-17 01:33:57,528 | INFO | Dataset Validation Completed
+2026-07-17 01:33:57,529 | INFO | Analytics Completed
+2026-07-17 01:33:57,538 | INFO | Summary Saved into Database
+2026-07-17 01:34:31,680 | INFO | Visualization Generated Successfully
+2026-07-17 10:07:20,392 | INFO | Application Started
+2026-07-17 10:07:20,424 | INFO | Dataset Loaded Successfully
+2026-07-17 10:07:20,455 | INFO | Dataset Validation Completed
+2026-07-17 10:07:20,462 | INFO | Analytics Completed
+2026-07-17 10:07:20,497 | INFO | Summary Saved into Database
